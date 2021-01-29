@@ -1,7 +1,7 @@
 package by.epam.learn.entity;
 
 public class CustomArray {
-    private int[] array;
+private int[] array;
     
     public CustomArray() {
     }
